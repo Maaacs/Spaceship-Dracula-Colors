@@ -13,10 +13,12 @@ Spaceship Dracula Colors is a recolor and modification of the original spaceship
 <p align="center">
   <img alt="Spaceship with Hyper and One Dark" src="https://user-images.githubusercontent.com/10276208/36086434-5de52ace-0ff2-11e8-8299-c67f9ab4e9bd.gif" width="980px">
 </p>
+<p style="text-align: center;"><em>Default theme</em></p>
 
 <p align="center">
   <img width="980px" alt="Terminal" src="https://github.com/Maaacs/Spaceship-Dracula-Colors/assets/56925726/85dd02c5-1842-4482-8205-7a4e50cc1d04">
 </p>
+<p style="text-align: center;"><em>Mixed Dracula theme</em></p>
 
 
 ## Features
@@ -73,9 +75,6 @@ Spaceship Dracula Colors is a recolor and modification of the original spaceship
 - Execution time of the last command if it exceeds the set threshold.
 - Optional AWS now supports aws-vault ([aws-vault](https://github.com/99designs/aws-vault))
 
-Want more features? Please, [open an issue](https://github.com/spaceship-prompt/spaceship-prompt/issues/new/choose) or send pull request.
-
-**💡 Tip:** Follow [our Twitter](https://twitter.com/SpaceshipPrompt) to keep yourself updated about new features, improvements, and bugfixes.
 
 ## Requirements
 
@@ -93,8 +92,7 @@ Now that the requirements are satisfied, you can install Spaceship ZSH via any o
 
 Download the install.sh in [Releases](https://github.com/Maaacs/Spaceship-Dracula-Colors/releases)
 
-<img width="335" alt="release" src="https://github.com/Maaacs/Spaceship-Dracula-Colors/assets/56925726/95c3c08d-b740-4fe3-8842-63942177b868">
-
+<img width="335" alt="release" src="https://github.com/Maaacs/Spaceship-Dracula-Colors/assets/56925726/95c3c08d-b740-4fe3-8842-63942177b868"></br>
 
 After this, open terminal in folder and execute the installer:
   ```zsh
