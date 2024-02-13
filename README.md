@@ -91,8 +91,11 @@ Now that the requirements are satisfied, you can install Spaceship ZSH via any o
 
 ### [oh-my-zsh]
 
-Dowload the installer:
-
+Open the automatic [Installer](https://github.com/Maaacs/Spaceship-Dracula-Colors/installer/install.sh) and click on Download raw file.
+After this, open terminal in folder and execute the installer:
+  ```zsh
+  chmod +x install.sh && ./install.sh 
+  ```
 
 ## License
 
