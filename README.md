@@ -13,12 +13,12 @@ Spaceship Dracula Colors is a recolor and modification of the original spaceship
 <p align="center">
   <img alt="Spaceship with Hyper and One Dark" src="https://user-images.githubusercontent.com/10276208/36086434-5de52ace-0ff2-11e8-8299-c67f9ab4e9bd.gif" width="980px">
 </p>
-<p style="text-align: center;"><em>Default theme</em></p>
+<p align="center"><em>Default theme</em></p>
 
 <p align="center">
   <img width="980px" alt="Terminal" src="https://github.com/Maaacs/Spaceship-Dracula-Colors/assets/56925726/85dd02c5-1842-4482-8205-7a4e50cc1d04">
 </p>
-<p style="text-align: center;"><em>Mixed Dracula theme</em></p>
+<p align="center"><em>Mixed Dracula theme</em></p>
 
 
 ## Features
