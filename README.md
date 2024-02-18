@@ -16,7 +16,7 @@ Spaceship Dracula Colors modifies and recolors the original spaceship theme, off
 <p align="center"><em>Spaceship Default theme</em></p>
 
 <p align="center">
-  <img width="980px" alt="Terminal" src="https://github.com/Maaacs/Spaceship-Dracula-Colors/assets/56925726/85dd02c5-1842-4482-8205-7a4e50cc1d04">
+<img width="980px" alt="Terminal" src="https://github.com/Maaacs/Spaceship-Dracula-Colors/assets/56925726/33867605-0b60-4878-9352-ff79b32a006a">
 </p>
 <p align="center"><em>Spaceship Dracula Colors theme</em></p>
 
