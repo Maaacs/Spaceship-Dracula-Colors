@@ -7,18 +7,18 @@
   
 Spaceship is a minimalistic, powerful and extremely customizable [Zsh][zsh-url] prompt. It combines everything you may need for convenient work, without unnecessary complications, like a real spaceship.
 
-Spaceship Dracula Colors is a recolor and modification of the original spaceship theme. In addition, I included installation and uninstallation as fast as a rocket.
+Spaceship Dracula Colors modifies and recolors the original spaceship theme, offering rapid installation and uninstallation similar to a rocket's speed.
 
 
 <p align="center">
   <img alt="Spaceship with Hyper and One Dark" src="https://user-images.githubusercontent.com/10276208/36086434-5de52ace-0ff2-11e8-8299-c67f9ab4e9bd.gif" width="980px">
 </p>
-<p align="center"><em>Default theme</em></p>
+<p align="center"><em>Spaceship Default theme</em></p>
 
 <p align="center">
   <img width="980px" alt="Terminal" src="https://github.com/Maaacs/Spaceship-Dracula-Colors/assets/56925726/85dd02c5-1842-4482-8205-7a4e50cc1d04">
 </p>
-<p align="center"><em>Mixed Dracula theme</em></p>
+<p align="center"><em>Spaceship Dracula Colors theme</em></p>
 
 
 ## Features
@@ -80,28 +80,37 @@ Spaceship Dracula Colors is a recolor and modification of the original spaceship
 
 To work correctly, you will first need:
 
-- [`zsh`](http://www.zsh.org/) (v5.2 or recent) and [`oh-my-zsh`](https://ohmyz.sh/) must be installed.
-- [Powerline Font](https://github.com/powerline/fonts) must be installed and used in your terminal (for example, switch font to [Fira Code](https://github.com/tonsky/FiraCode)).
-- This is a code freeze of version 3.16.7. Newer versions are not supported due to incompatibility.
+1. [`zsh`](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) (v5.2 or recent) and [`oh-my-zsh`](https://ohmyz.sh/) must be installed.
+2. [`Fira Code`](https://github.com/tonsky/FiraCode/wiki/Installing) must be installed and used in your terminal.
+3. For better experience, Dracula must be installed in your terminal. Install here -> [`Linux`](https://draculatheme.com/gnome-terminal) , [`MacOS`](https://draculatheme.com/terminal) , [`WSL`](https://draculatheme.com/windows-terminal)
+4. This is a code freeze of version 3.16.7 of the spaceship prompt. More recent versions are not yet compatible.
 
 ## Installing
 
-Now that the requirements are satisfied, you can install Spaceship ZSH via any of the following tools.
+Now that the requirements are satisfied, you can install Spaceship Oh-My-Zsh Dracula Colors via any of the following tools.
 
-### [oh-my-zsh]
+Open [Releases](https://github.com/Maaacs/Spaceship-Dracula-Colors/releases) and download the archive `install.sh`. Below you can see the picture that will help you. 
 
-Download the install.sh in [Releases](https://github.com/Maaacs/Spaceship-Dracula-Colors/releases)
+<p align="center">
+<img width="980px" alt="release" src="https://github.com/Maaacs/Spaceship-Dracula-Colors/assets/56925726/ded5f43d-3616-4658-abc8-13fd5514fcb9"></br>
+</p>
 
-<img width="335" alt="release" src="https://github.com/Maaacs/Spaceship-Dracula-Colors/assets/56925726/95c3c08d-b740-4fe3-8842-63942177b868"></br>
 
-After this, open terminal in folder and execute the installer:
+Then open the terminal in the folder where you downloaded install.sh and run the installation program as follows:
   ```zsh
   chmod +x install.sh && ./install.sh 
   ```
 
-## License
 
-MIT © [Denys Dovhan](http://denysdovhan.com)
+## Uninstalling
+
+Open [Releases](https://github.com/Maaacs/Spaceship-Dracula-Colors/releases) and download the archive uninstall.sh
+
+Then open the terminal in the folder where you downloaded `uninstall.sh` and run:
+  ```zsh
+  chmod +x uninstall.sh && ./uninstall.sh 
+  ```
+
 
 <!-- Badges -->
 
