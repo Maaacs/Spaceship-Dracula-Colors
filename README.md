@@ -23,6 +23,9 @@ Spaceship Dracula Colors modifies and recolors the original spaceship theme, off
 
 ## Features
 
+- Autosuggestions
+- Syntax-highlighting
+- Completions
 - Clever hostname and username displaying.
 - Prompt character turns red if the last command exits with non-zero code.
 - Current Git branch and rich repo status:

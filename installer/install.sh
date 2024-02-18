@@ -80,5 +80,20 @@ SPACESHIP_PROMPT_ORDER=(
 else
     echo "The theme installation could not proceed. Verify oh-my-zsh installation."
 fi
+
+if [[ -f ~/.zshrc && -w ~/.zshrc ]]; then
+    echo '#START HIGHLIGHTING AUTOSUGGESTIONS COMPLETIONS' >> ~/.zshrc
+    bash -c "$(curl --fail --show-error --silent --location https://raw.githubusercontent.com/zdharma-continuum/zinit/HEAD/scripts/install.sh)"
+echo '
+zinit light zdharma/fast-syntax-highlighting
+zinit light zsh-users/zsh-autosuggestions
+zinit light zsh-users/zsh-completions
+#END HIGHLIGHTING AUTOSUGGESTIONS COMPLETIONS
+' >> ~/.zshrc
+    echo "syntax-highlighting autosuggestions completions installed."
+else
+    echo "Error in Zinit."
+fi
+
 echo "Success! Restart Terminal..."
 
