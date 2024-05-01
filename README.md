@@ -78,6 +78,9 @@ Spaceship Dracula Colors modifies and recolors the original spaceship theme, off
 - Execution time of the last command if it exceeds the set threshold.
 - Optional AWS now supports aws-vault ([aws-vault](https://github.com/99designs/aws-vault))
 
+## Linux Version
+
+An exclusive version for Linux is being developed. If you are installing on Linux right now, skip to the steps in this repository [`Space Ubuntu`](https://github.com/Maaacs/space-ubuntu).
 
 ## Requirements
 
